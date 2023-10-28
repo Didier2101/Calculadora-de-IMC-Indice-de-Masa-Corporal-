@@ -1,0 +1,10 @@
+Ejercicio: Calculadora de IMC (Índice de Masa Corporal) de Mike Towers
+Descripción: Crea un programa en JavaScript que solicite al usuario su nombre, peso en kilogramos y altura en metros. Luego, calcula el IMC de Mike Towers utilizando la siguiente fórmula:
+IMC = peso (kg) / (altura (m) * altura (m))
+Finalmente, muestra un mensaje que indique el estado de salud de Mike Towers según su IMC:
+•	Si el IMC es menor a 18.5, muestra: "Mike Towers está bajo de peso."
+•	Si el IMC está entre 18.5 y 24.9, muestra: "Mike Towers tiene un peso saludable."
+•	Si el IMC está entre 25 y 29.9, muestra: "Mike Towers tiene sobrepeso."
+•	Si el IMC es igual o mayor a 30, muestra: "Mike Towers tiene obesidad."
+Asegúrate de utilizar buenas prácticas de codificación, como Camel Case para nombrar variables y comentarios descriptivos en tu código.
+Este ejercicio combina varios conceptos de JavaScript y es una forma práctica de demostrar la aplicación de estos conceptos en una tarea útil.
